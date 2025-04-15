@@ -12,10 +12,6 @@ Dodge falling red lasers as a green circle and survive as long as you can. The l
 - Press **R** to start or restart the game.
 - Press **Esc** to quit.
 
-## 🖥️ Screenshot
-
-*(Add a screenshot of your game window here if you like)*
-
 ## 🛠️ Technologies Used
 
 - Python 3
